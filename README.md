@@ -8,5 +8,5 @@ This project is meant to both further my understanding in Data Structures and fo
 
 The design and implementation of some data structures and their associated functions in this library were inspired by "Data Structures and Algorithms in Java, 6th Edition" by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser. Although this library is implemented in C, many of the methods and algorithms follow the structure and logic outlined in the book.
 
-The book was an invaluable resource in guiding the design and functionality of the abstract data types included in this project.
+
 
