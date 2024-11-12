@@ -18,5 +18,5 @@ int main() {
         printf("Nuh uh, they aren't equal\n");
     }
 
-    return
+    return 0;
 }
