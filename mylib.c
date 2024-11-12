@@ -3,5 +3,5 @@
 
 
 void hello() {
-  printf("cool beans");
+  printf("cool beans \n");
 }
