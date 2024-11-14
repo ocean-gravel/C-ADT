@@ -9,7 +9,7 @@ This project is meant to both further my understanding in Data Structures and fo
 The design and implementation of some data structures and their associated functions in this library were inspired by "Data Structures and Algorithms in Java, 6th Edition" by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser. Although this library is implemented in C, many of the methods and algorithms follow the structure and logic outlined in the book.
 
 
-### How to run (I will update this once all the libraries are all together and sorted nicely ¯\ _(ツ)_/¯ ) 
+### How to run (I will update this once all the libraries are all together and sorted nicely ( ͡° ͜ʖ ͡°) ) 
 ```
 gcc -c mylib.c -o mylib.o
 gcc -c array.c -o array.o
